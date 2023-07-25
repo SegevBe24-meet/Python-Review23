@@ -1,5 +1,6 @@
 def create_youtube_video(title, description):
-   video = {"Title":title,"Description":description,"likes":0,"dislikes":0,"comments":{}}
+   video = {"Title":title,"Description":description,"likes":0,"dislikes":0,"comments":{},"hashtag":}
+   hash1 = 
    return video
 
 def like(video):
